@@ -2,7 +2,7 @@
 
 ## Hello World 🤓,
 
-### I'm Louis Xhaferi, tech- and programming-enthusiast
+### I'm Louis Xhaferi, and I'm a technology- and programming-enthusiast. 
 -------
 
 ## About Me 😎
