@@ -1,15 +1,17 @@
-# Louis Xhaferi
+# Hey, I'm Louis 👋
 
-## Hello World 🤓,
+### About
 
-### I'm Louis Xhaferi, and I'm a Software Engineer 
--------
+I'm Louis, 23 years old, and am a Software Engineer at Mercedes-Benz Tech Innovation.
+You mostly find me doing work in and around web applications in the cloud.
 
-## About Me 😎
-- 🚀 Software Engineer, usually found in the backend- and cloud-context
-- 🌍 Programming Language polyglot (Currently learning Rust)
-- 📚 Great joy in helping others learn and grow
+I'm still relatively unexperienced to FOSS and am looking forward to contributing and giving talks. 🤠
 
-## Contact 📞
-- 💬 Ask me about anything and everything!
-- 💌 Reach me via my [private E-Mail](mailto:louis.xhaferi@gmx.de)
+### Preferred Technologies
+- Kotlin / Spring Boot / PostgreSQL
+- TypeScript / React
+
+### Currently Learning
+- Rust 🦀
+- Embedded Engineering
+- Message Queues
